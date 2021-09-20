@@ -1,4 +1,4 @@
-_### Hi there 👋
+_Hi there 👋
 
 Princess Ibironke is a special emperor 👸🏽❤️⭐️
 
@@ -71,6 +71,4 @@ as I wrote it in
 please don't test this up
 bugs are coming in…. _by Arber Shabani_               
 
-
-Quality is like buying oats. If you want nice, clean, fresh oats, you must pay a fair price. ~ IBIRONKE YEKINNI ❤️❤️❤️
-_
+Quality is like buying oats. If you want nice, clean, fresh oats, you must pay a fair price. ~ IBIRONKE YEKINNI ❤️❤️❤️ _
