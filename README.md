@@ -27,7 +27,6 @@ start running Appium
 as we check the cases
 end up in Medium
 
-Photo by Caspar Camille Rubin on Unsplash
 All the unique IDs
 in the iOS piece
 setting up the accessibility
@@ -40,7 +39,7 @@ Thank god we set up
 test ids are up
 same in all devices
 that’s what I call luck
-Double the progress
+Double the API progress
 as we solved this mess
 we just keep up testing
 while returning tasks
