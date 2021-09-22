@@ -1,8 +1,8 @@
-_Hi there 👋
+_Hi there, little QA poem that speaks around my skills 👋
 
 Princess Ibironke is a special emperor 👸🏽❤️⭐️
 
-This is for QA's
+This is for QA's,
 as I set the base
 to make up these tests
 and automate this phase
