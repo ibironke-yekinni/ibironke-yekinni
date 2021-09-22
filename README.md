@@ -49,7 +49,8 @@ the UI should incline
 create another issue
 if devs don't have time
 
-Photo by Max Nelson on Unsplash
+A reproducable defect
+I call it a Bug 🐞
 Bug or feature that
 I don't know it yet
 we will find this out
