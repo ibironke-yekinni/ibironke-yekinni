@@ -22,7 +22,8 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<p align="left"> Hi there, little QA poem that speaks around my skills :wave:
+- 🎤 Hi there, little QA poem that speaks around my skills 👋 **
+
 Princess Ibironke is a special emperor👸❤️⭐️ 
 
 This is for QA's,
