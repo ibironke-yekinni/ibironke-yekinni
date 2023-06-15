@@ -22,10 +22,8 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-_Hi there, little QA poem that speaks around my skills 
-￼
-
-Princess Ibironke is a special emperor
+<p align="left"> Hi there, little QA poem that speaks around my skills :wave:
+Princess Ibironke is a special emperor👸❤️⭐️ 
 
 This is for QA's,
 as I set the base
@@ -50,7 +48,7 @@ the automation is set
 With Java and Selenium
 start running Appium
 as we check the cases
-end up in Medium
+end up in Medium.
 
 All the unique IDs
 in the iOS piece
@@ -74,8 +72,7 @@ create another issue
 if devs don't have time
 
 A reproducable defect
-I call it a Bug 
-￼
+I call it a Bug🐞 
 
 Bug or feature that
 I don't know it yet
@@ -98,11 +95,8 @@ as I wrote it in
 please don't test this up
 bugs are coming in…. _by Arber Shabani_
 
-Quality is like buying oats. If you want nice, clean, fresh oats, you must pay a fair price. ~ IBIRONKE YEKINNI 
-￼
-￼
-￼
- _
+Quality is like buying oats. If you want nice, clean, fresh oats, you must pay a fair price. ~ IBIRONKE YEKINNI ❤️💙💜 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ibironkeyekinni" target="blank">
